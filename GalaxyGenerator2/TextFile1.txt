@@ -1,0 +1,16 @@
+
+
+
+'''
+star probability
+
+
+Class M = 100
+Class K = 60
+Class G = 30
+Class F = 15
+Class A = 8
+Class B = 3
+Class O = 1
+
+'''
